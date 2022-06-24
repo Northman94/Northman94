@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Northman94
-- 👀 I’m interested in Unity + C# Development
+- 👀 I’m interested in Python areas or use.
 - 🌱 I’m currently learning C# & Python
 - 💞️ 
 - 📫
