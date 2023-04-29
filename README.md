@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Northman94
-- 👀 I’m interested in Python areas or use.
+- 👀 I’m interested in Python areas of use.
 - 🌱 I’m currently learning C# & Python
 - 💞️ 
 - 📫
